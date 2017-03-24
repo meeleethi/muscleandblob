@@ -1,0 +1,7 @@
+languageCode = "en-us"
+title = "Blobby's Blob Page"
+baseURL = "http://example.org/"
+
+[Params]
+  Author = "Blobby"
+  disqusShortname = "Meelee"
